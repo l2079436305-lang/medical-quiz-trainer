@@ -1,0 +1,11 @@
+# 个人题库数据不上传
+test/fixtures/real-bank.txt
+test/fixtures/real-bank-as-js.js
+test/fixtures/amedex-2023.json
+test/fixtures/parsed-bank.json
+题库-*.json
+*.zip
+
+# 系统文件
+Thumbs.db
+.DS_Store
