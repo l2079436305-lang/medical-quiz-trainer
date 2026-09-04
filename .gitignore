@@ -1,8 +1,9 @@
-# 个人题库数据与依赖个人题库的本地测试，不上传
+# 个人题库数据与依赖个人题库的本地工具/测试，不上传
 test/fixtures/
 test/parse-real-bank.cjs
 test/amedex.test.cjs
 test/browser-e2e.html
+tools/
 题库-*.json
 *.zip
 
